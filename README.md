@@ -2,7 +2,7 @@
 
 A focused study and practice environment for technical concepts in networking, security, and systems.
 
-Built to reinforce how concepts actually work — not just definitions, but **how to think through them in real scenarios.
+Built to reinforce how concepts actually work — not just definitions, but how to think through them in real scenarios.
 
 ---
 
